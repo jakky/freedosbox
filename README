@@ -1,0 +1,11 @@
+a retard friendly way to just dick together freedos utils with dosbox's magic and love
+
+just do something like this:
+mv utils ~/.dosbox/
+
+throw this in your autoexec:
+MOUNT Y ~/.dosbox/utils
+SET PATH=Z:\;Y:\
+
+and mount your c or whatever and make everything pretty and kawaii desu ne
+go write some basic im gay
